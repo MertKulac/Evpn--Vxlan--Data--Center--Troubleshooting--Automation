@@ -1,5 +1,5 @@
 # Data Center Troubleshooting Automation
-Network automation studies with show commands used to solve customer problems in a data center network.
+Network automation studies with show commands used to solve customer problems in a data center network .
 
 # Show Outputs
 show vxlan flood vte => Vlan list the customer is connected to and corresponding VTEPs
